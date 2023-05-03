@@ -18,7 +18,6 @@ System](https://github.com/irfiacre/Volunteer-management-system)
 - ⚡ Fun fact **I am a lover of Irish Potatoes**
 
 ---
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
